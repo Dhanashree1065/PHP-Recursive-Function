@@ -1,0 +1,5 @@
+Recursive Function in PHP
+
+PHP, like C/C++, permits recursive function calls.
+In this scenario, we call to the current function as a function within a function.
+Recursion is another name for it.
